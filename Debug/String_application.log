@@ -1,0 +1,17 @@
+﻿  Email.cpp
+e:\workplace\string_application\email.cpp(242): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(340): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(352): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(364): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(376): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(389): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(539): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(555): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(564): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(574): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(582): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(591): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(662): warning C4018: '<': signed/unsigned mismatch
+e:\workplace\string_application\email.cpp(633): warning C4101: 's': unreferenced local variable
+  String_application.vcxproj -> E:\WorkPlace\String_application\Debug\String_application.exe
+  String_application.vcxproj -> E:\WorkPlace\String_application\Debug\String_application.pdb (Full PDB)
